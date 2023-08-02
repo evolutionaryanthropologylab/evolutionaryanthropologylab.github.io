@@ -19,3 +19,6 @@ div#slider figure {
   font-size: 0;
   animation: 20s slideshow infinite; 
 }
+div#slider figure img {
+  filter: brightness(70%) saturate(50%) sepia(30%) opacity(0.7);
+}
